@@ -1,0 +1,4 @@
+#Fri Nov 29 20:24:46 CST 2024
+base.0=E\:\\androidproject\\wechat_imitation1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

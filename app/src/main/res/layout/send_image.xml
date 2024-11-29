@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/chat_bg_default">
+
+    <!-- Title bar with return button, user name, and profile picture -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#333333"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/title_btn_back"
+            android:textColor="#fff"
+            android:text="返回" />
+
+
+
+
+    </RelativeLayout>
+
+    <!-- Placeholder for selected image preview -->
+    <ImageView
+        android:id="@+id/image_preview"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:scaleType="centerCrop"
+
+        android:background="#cccccc"
+        android:contentDescription="Image Preview" />
+
+    <!-- "Select Image" button -->
+    <Button
+        android:id="@+id/btn_select_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_preview"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+        android:text="选择图片"
+        android:background="#cccccc"
+        android:textColor="#333333" />
+
+    <!-- Send button at the bottom -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#333333"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/btn_send_image"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text="发送"
+            android:background="@drawable/chat_send_btn"
+             />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,60 @@
+cn/homework/myweixin/ChatMsgEntity.java
+ cn.homework.myweixin.ChatMsgEntity
+cn/homework/myweixin/FriendChatAdapter.java
+ cn.homework.myweixin.FriendChatAdapter
+ cn.homework.myweixin.FriendChatAdapter$ViewHolder
+cn/homework/myweixin/Login.java
+ cn.homework.myweixin.Login
+ cn.homework.myweixin.Login$1
+cn/homework/myweixin/FriendEntity.java
+ cn.homework.myweixin.FriendEntity
+cn/homework/myweixin/ExitFromSettings.java
+ cn.homework.myweixin.ExitFromSettings
+ cn.homework.myweixin.ExitFromSettings$1
+cn/homework/myweixin/MainTopRightDialog.java
+ cn.homework.myweixin.MainTopRightDialog
+ cn.homework.myweixin.MainTopRightDialog$1
+cn/homework/myweixin/MainWeixin.java
+ cn.homework.myweixin.MainWeixin
+ cn.homework.myweixin.MainWeixin$1
+ cn.homework.myweixin.MainWeixin$2
+ cn.homework.myweixin.MainWeixin$3
+ cn.homework.myweixin.MainWeixin$MyOnClickListener
+ cn.homework.myweixin.MainWeixin$MyOnPageChangeListener
+cn/homework/myweixin/Exit.java
+ cn.homework.myweixin.Exit
+ cn.homework.myweixin.Exit$1
+cn/homework/myweixin/ShakeListener.java
+ cn.homework.myweixin.ShakeListener
+ cn.homework.myweixin.ShakeListener$OnShakeListener
+cn/homework/myweixin/Appstart.java
+ cn.homework.myweixin.Appstart
+ cn.homework.myweixin.Appstart$1
+cn/homework/myweixin/ShakeActivity.java
+ cn.homework.myweixin.ShakeActivity
+ cn.homework.myweixin.ShakeActivity$1
+ cn.homework.myweixin.ShakeActivity$2
+ cn.homework.myweixin.ShakeActivity$3
+ cn.homework.myweixin.ShakeActivity$3$1
+cn/homework/myweixin/ChatMsgViewAdapter.java
+ cn.homework.myweixin.ChatMsgViewAdapter
+ cn.homework.myweixin.ChatMsgViewAdapter$IMsgViewType
+ cn.homework.myweixin.ChatMsgViewAdapter$ViewHolder
+cn/homework/myweixin/LoadingActivity.java
+ cn.homework.myweixin.LoadingActivity
+cn/homework/myweixin/BuildConfig.java
+ cn.homework.myweixin.BuildConfig
+cn/homework/myweixin/SendImageActivity.java
+ cn.homework.myweixin.SendImageActivity
+ cn.homework.myweixin.SendImageActivity$1
+ cn.homework.myweixin.SendImageActivity$2
+ cn.homework.myweixin.SendImageActivity$3
+ cn.homework.myweixin.SendImageActivity$4
+cn/homework/myweixin/UserInfo.java
+ cn.homework.myweixin.UserInfo
+cn/homework/myweixin/ChatActivity.java
+ cn.homework.myweixin.ChatActivity
+ cn.homework.myweixin.ChatActivity$1
+ cn.homework.myweixin.ChatActivity$2
+cn/homework/myweixin/Welcome.java
+ cn.homework.myweixin.Welcome
