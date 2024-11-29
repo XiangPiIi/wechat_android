@@ -1,0 +1,1 @@
+该项目是腾讯客户端大作业的android前端项目，使用android打开后，同步gradle项目即可运行
